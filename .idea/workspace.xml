@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1340d827-0c72-484b-b5fd-db63e8c914bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/images/placeholders/caps1.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/placeholders/caps2.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/placeholders/caps3.JPG" afterPath="" />
       <change beforePath="$PROJECT_DIR$/page1.html" afterPath="$PROJECT_DIR$/page1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +22,8 @@
       <file leaf-file-name="5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-197">
-              <caret line="175" column="103" lean-forward="false" selection-start-line="175" selection-start-column="99" selection-end-line="175" selection-end-column="103" />
+            <state relative-caret-position="-89">
+              <caret line="214" column="8" lean-forward="false" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -29,8 +32,28 @@
       <file leaf-file-name="page1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="192" column="99" lean-forward="false" selection-start-line="192" selection-start-column="99" selection-end-line="192" selection-end-column="99" />
+            <state relative-caret-position="198">
+              <caret line="197" column="123" lean-forward="false" selection-start-line="197" selection-start-column="123" selection-end-line="197" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3294">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3240">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,20 +61,6 @@
       </file>
       <file leaf-file-name="caps.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/placeholders/caps.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="caps1.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/placeholders/caps1.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="caps2.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/placeholders/caps2.JPG">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -174,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527064763472</updated>
-      <workItem from="1527064764674" duration="4608000" />
+      <workItem from="1527064764674" duration="5588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4608000" />
+    <option name="totallyTimeSpent" value="5588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="0" width="934" height="1080" extended-state="4" />
@@ -236,14 +245,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="175" column="103" lean-forward="false" selection-start-line="175" selection-start-column="99" selection-end-line="175" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/placeholders/caps.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -264,10 +265,34 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3294">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="214" column="8" lean-forward="false" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="192" column="99" lean-forward="false" selection-start-line="192" selection-start-column="99" selection-end-line="192" selection-end-column="99" />
+        <state relative-caret-position="198">
+          <caret line="197" column="123" lean-forward="false" selection-start-line="197" selection-start-column="123" selection-end-line="197" selection-end-column="123" />
           <folding />
         </state>
       </provider>
